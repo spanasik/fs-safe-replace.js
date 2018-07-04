@@ -1,6 +1,6 @@
 {
   "name": "safe-replace",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A micro-module for safely replacing a file.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coolaj86/node-safe-replace.git"
+    "url": "https://git.coolaj86.com/coolaj86/fs-safe-replace.js.git"
   },
   "keywords": [
     "cluster",
@@ -23,7 +23,7 @@
   "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
   "license": "(MIT OR Apache-2.0)",
   "bugs": {
-    "url": "https://github.com/coolaj86/node-safe-replace/issues"
+    "url": "https://git.coolaj86.com/coolaj86/fs-safe-replace.js/issues"
   },
-  "homepage": "https://github.com/coolaj86/node-safe-replace#readme"
+  "homepage": "https://git.coolaj86.com/coolaj86/fs-safe-replace.jse"
 }
